@@ -1,6 +1,6 @@
 {
-    "name": "qixinyun/taiyuan-portal-config",
-    "description": "taiyuan portal config",
+    "name": "qixinyun/taiyuan-portal-local-config",
+    "description": "taiyuan portal local config",
     "type": "library",
     "license": "MIT",
     "authors": [
